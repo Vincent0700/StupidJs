@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": true,
+  "[h]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[cc]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "files.associations": {
+    "fstream": "cpp",
+    "iosfwd": "cpp",
+    "sstream": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "iterator": "cpp",
+    "string": "cpp",
+    "stack": "cpp",
+    "cstddef": "cpp",
+    "map": "cpp",
+    "functional": "cpp",
+    "queue": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "cwchar": "cpp",
+    "exception": "cpp",
+    "random": "cpp",
+    "initializer_list": "cpp",
+    "istream": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
+  }
+}
