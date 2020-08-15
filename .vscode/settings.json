@@ -1,9 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "[h]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
-  },
-  "[cc]": {
+  "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
   "files.associations": {
@@ -31,6 +28,28 @@
     "streambuf": "cpp",
     "tuple": "cpp",
     "type_traits": "cpp",
-    "utility": "cpp"
+    "utility": "cpp",
+    "__locale": "cpp",
+    "locale": "cpp",
+    "__bit_reference": "cpp",
+    "__functional_base": "cpp",
+    "__node_handle": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "deque": "cpp",
+    "__memory": "cpp",
+    "filesystem": "cpp",
+    "limits": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "vector": "cpp",
+    "__hash_table": "cpp",
+    "__string": "cpp",
+    "__tree": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp"
   }
 }

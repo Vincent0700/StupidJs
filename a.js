@@ -1,2 +1,4 @@
-var a = 10.23;
-a = a + 1;
+var num1 = 12;
+var num2 = num1 / 2 + num1;
+
+$print(num2);
